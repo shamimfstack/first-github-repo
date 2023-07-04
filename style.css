@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+    background-color: tomato;
+    text-align: center;
+    padding: 40px 0;
+}
+
+.header h2 {
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-size: 2rem;
+}
+
+p {
+    color: #fff;  
+    font-weight: bold; 
+}
